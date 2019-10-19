@@ -1,12 +1,15 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Welcome to my "
 excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+If you have a question regarding any my article, either post on the Kaggle/Medium or any other source media contact me via my imoisharma@icloud.com email address. I do not respond to work emails sent to my personal email.
+
+I’m a Data Scientist Practitioner. Currently studying Masters of Data Science from Monash University. I also have a computer science degree from the Guru Gobind Singh Indraprastha University of Delhi. My personal research in which I am interested in learning neuroscience and how to build more robust model using deep learning in neuroscience. I'm especially interested in how human brain works , and how population of neurons evoking in human brain inside cerebral cortex helps in reconstructing speech.
 
 This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
 
