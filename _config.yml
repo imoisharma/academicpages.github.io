@@ -11,7 +11,7 @@ title                    : "Mohit Sharma"
 title_separator          : "-"
 name                     : &name "Mohit Sharma"
 description              : &description "Data Scientist and Machine Learner Practioner"
-url                      : https://imoisharma.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://imoisharma.com # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "imoisharma/imoisharma.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -57,9 +57,9 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : imoisharma
+  username               : &twitter
 facebook:
-  username               : imoisharma
+  username               : 
   app_id                 :
   publisher              :
 og_image                 :  # Open Graph/Twitter default site image
@@ -85,7 +85,7 @@ author:
   bio              : "Data Scientist"
   location         : "Melbourne, AUS"
   employer         : 
-  email            : "mailto:imoisharma@icloud.com"
+  email            : "imoisharma@icloud.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -94,11 +94,11 @@ author:
   flickr           :
   facebook         : 
   foursquare       :
-  github           : "https://www.github.com/imoisharma"
+  github           : "imoisharma"
   google_plus      :
   keybase          :
-  linkedin         : "https://www.linkedin.com/in/imoisharma"
-  twitter          : "https://www.twitter.com/imoisharma"
+  linkedin         : "imoisharma"
+  twitter          : "imoisharma"
   instagram        : "https://www.instagram.com/imoisharma"
   youtube          : "https://www.youtube.com/channel/UCuDnEwLb3OxCeCh-koEXL2g"
   wikipedia        :
