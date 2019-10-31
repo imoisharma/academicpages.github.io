@@ -81,40 +81,26 @@ analytics:
 # Site Author
 author:
   name             : "Mohit Sharma"
-  avatar           : "LinkedIn Profile Photo.png"
-  bio              : "Mohit has been working on past 4+ years on the programming languages. Mohit Sharma has done several projects in Machine learning and deep learning. He has been working on Python, R, Tableau, Microsoft Excel and VBA, and Big Data. Mohit Sharma is currently pursuing a Master of Data Science from Monash University, Australia.
- I value collaboration & communication, agile development practices, and epistemic humility. "
-  location         : "Location"
-  employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
+  avatar           : "IMG_880.jpg"
+  bio              : "Data Scientist"
+  location         : "Melbourne, AUS"
+  employer         : 
+  email            : "mailto:imoisharma@icloud.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
-  facebook         :
+  facebook         : 
   foursquare       :
-  github           : "imoisharma"
+  github           : "https://www.github.com/imoisharma"
   google_plus      :
   keybase          :
-  instagram        : "imoisharma"
-  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
-  lastfm           :
-  linkedin         : "imoisharma"
-  orcid            : "http://orcid.org/yourorcidurl"
-  pinterest        :
-  soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
-  steam            :
-  tumblr           :
-  twitter          : "imoisharma"
-  vine             :
-  weibo            :
-  xing             :
-  youtube          :
+  linkedin         : "https://www.linkedin.com/in/imoisharma"
+  twitter          : "https://www.twitter.com/imoisharma"
+  instagram        : "https://www.instagram.com/imoisharma"
+  youtube          : "https://www.youtube.com/channel/UCuDnEwLb3OxCeCh-koEXL2g"
   wikipedia        :
 
 
